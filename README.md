@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ahmed-Adel-0">
-    <img src="https://komarev.com/ghpvc/?username=Ahmed-Adel-0&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  </a>
   <a href="mailto:ahmedadeltop1@gmail.com">
     <img src="https://img.shields.io/badge/Email-ahmedadeltop1%40gmail.com-2E9EF7?style=flat&logo=gmail&logoColor=white" alt="email" />
   </a>
@@ -36,10 +33,6 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Adel-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Adel-0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Adel-0&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <h3 align="left">📈 Contribution Activity</h3>
