@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
 <h3 align="center">A passionate Software Student / .NET Backend Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-adel-0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-adel-0" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-adel-0" alt="ahmed-adel-0" /></a> </p>
+
 - 🌱 I’m currently learning **Web API using .NET**
+
+- 💬 Ask me about **Software Engineer**
 
 - 📫 How to reach me **ahmedadeltop1@gmail.com**
 
@@ -14,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-adel-0&show_icons=true&theme=dark&text_color=1bb63a&hide_border=true&locale=en&layout=compact" alt="ahmed-adel-0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-adel-0&show_icons=true&locale=en" alt="ahmed-adel-0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-adel-0&show_icons=true&theme=dark&title_color=0dd9b7&text_color=2a8d5a&hide_border=true&locale=en" alt="ahmed-adel-0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-adel-0&" alt="ahmed-adel-0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-adel-0&theme=dark" alt="ahmed-adel-0" /></p>
