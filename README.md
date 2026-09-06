@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Student / .NET Backend Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Learning+ASP.NET+Core+Web+API;Backend+%7C+.NET+%7C+SQL+Server;Building+SouqMind+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Learning+ASP.NET+Core+Web+API;Backend+%7C+.NET+%7C+SQL+Server" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,22 +27,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Adel-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Adel-0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<h3 align="left">📈 Contribution Activity</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Adel-0&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
-
-<h3 align="left">🏆 Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Adel-0&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 <h3 align="left">🔗 Connect with me</h3>
