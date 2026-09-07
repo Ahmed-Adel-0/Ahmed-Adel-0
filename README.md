@@ -13,9 +13,27 @@
 
 - 🎓 Third-year Software / Computer Science student
 - 🌱 Currently learning **ASP.NET Core Web API**
-- 🚧 Building **SouqMind** — an online manufacturing platform connecting customers with factories
 - 💬 Ask me about **C#, .NET, SQL Server, EF Core**
 - 📫 Reach me at **ahmedadeltop1@gmail.com**
+
+<!-- 1. GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+</p>
+
+<!-- 2. Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<h3 align="left">🛠️ Skills</h3>
+
+**Backend:** C#, ASP.NET Core, EF Core
+
+**Databases:** SQL Server, MySQL
+
+**Tools:** Git, Visual Studio, VS Code
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
