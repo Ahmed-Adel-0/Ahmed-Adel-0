@@ -18,13 +18,13 @@
 
 <!-- 1. GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Adel-0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Adel-0&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </p>
 
 <!-- 2. Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Ahmed-Adel-0/Ahmed-Adel-0/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <h3 align="left">🛠️ Skills</h3>
